@@ -1,0 +1,7 @@
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\obj\Debug\InterfaceTestability.csprojAssemblyReference.cache
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\obj\Debug\InterfaceTestability.csproj.CoreCompileInputs.cache
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\bin\Debug\InterfaceTestability.exe.config
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\bin\Debug\InterfaceTestability.exe
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\bin\Debug\InterfaceTestability.pdb
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\obj\Debug\InterfaceTestability.exe
+E:\C#Learning\C#IntermediatedCourse\InterfaceTestability\InterfaceTestability\obj\Debug\InterfaceTestability.pdb
